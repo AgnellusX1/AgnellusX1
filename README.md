@@ -6,18 +6,18 @@ A Cyber-Security Enthusiast, App Developer and Student, currently in Mumbai, Ind
 
 <!--
 **AgnellusX1/AgnellusX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on  -> Machine Learning | Web Dev Frameworks
+
+- 🔭 I’m currently working on -> Machine Learning | Web Dev Frameworks
 - 🌱 I’m currently learning -> Penetration Testing | CTFs | Life-Lessons
-- 👯 I’m looking to collaborate on  -> Android (Java/Flutter) | Anything Security
+- 🤔 I’m looking for help with -> Deployment of Web Apps | AWS
+- 👯 I’m looking to collaborate on -> App Development (Java/Flutter) | Anything Security
 - 💬 Ask me about -> Security | App Development | Linux
 - 📫 How to reach me: -> [LinkedIn](https://www.linkedin.com/in/agnellus-fernandes-81232b192) | <agnellusfernandes@gmail.com>
-- ⚡ Fun fact: Security is always too much, untill its too less
-<!--
-- 🤔 I’m looking for help with ...
+- ⚡ Fun fact: Security is always excessive until it’s not enough – Robbie Sinclair
 
+<!--
 - 😄 Pronouns: ...
 -->
 
